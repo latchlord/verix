@@ -127,11 +127,3 @@ Verix is an attempt to give India's chip design community — and the global RIS
 Star the repo to follow progress. Issues and feedback welcome.
 
 ---
-
-## License
-
-MIT — free forever for individual and commercial use.
-
----
-
-*Built in Bangalore. For chip engineers everywhere.*
